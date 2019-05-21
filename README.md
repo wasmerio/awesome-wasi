@@ -13,6 +13,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
   - [AssemblyScript](#assemblyscript)
   - [Rust](#rust)
   - [C](#c)
+  - [Zig](#zig)
 - [Articles](#articles)
 - [Podcasts](#podcasts)
 - [Resources in other languages](#resources-in-other-languages)
@@ -20,14 +21,14 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 
 ## General Resources
 - [Official Website](http://wasi.dev/)
-- [GitHub](https://github.com/webassembly/WASI)
+- [WASI GitHub Repo](https://github.com/webassembly/WASI)
 - [Mozilla Announcement](https://hacks.mozilla.org/2019/03/standardizing-wasi-a-webassembly-system-interface/)
 - [WASI SDK](https://github.com/CraneStation/wasi-sdk)
+- [WASI Core API](https://github.com/WebAssembly/WASI/blob/master/design/WASI-core.md)
 - [WASI CG Meetings](https://github.com/WebAssembly/WASI/tree/master/meetings)
 
 
 ## WASI-compatible Runtimes
-Ordered by name:
 
 - [Lucet](https://github.com/fastly/lucet)
 - [Wasmer](https://github.com/wasmerio/wasmer)
@@ -52,6 +53,8 @@ Ordered by name:
 ### C
 - [WASI C Tutorial](https://github.com/CraneStation/wasmtime/blob/master/docs/WASI-tutorial.md)
 
+### Zig
+- [Hello World](https://github.com/bketelsen/hello-wapi)
 
 ## Articles
 
