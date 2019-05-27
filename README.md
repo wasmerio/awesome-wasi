@@ -47,6 +47,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 - [cowsay](https://github.com/wapm-packages/cowsay)
 - [fortune](https://github.com/wapm-packages/fortune)
 - [lolcat](https://github.com/wapm-packages/lolcat)
+- [viu](https://github.com/wapm-packages/viu)
 - [rust-wasi-example](https://github.com/wapm-packages/rust-wasi-example)
 - [Rust WASI Tutorial](https://github.com/kubkon/rust-wasi-tutorial)
 
