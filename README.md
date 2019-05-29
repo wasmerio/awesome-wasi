@@ -65,6 +65,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 - [My First WASI Experience in Windows 10](https://www.codepool.biz/first-wasmtime-experience-windows-10.html)
 - [The Promise of WebAssembly](https://dev.to/ryan_levick/the-promise-of-webassembly-2obi)
 - [Running WebAssembly in the Kernel](https://medium.com/wasmer/running-webassembly-on-the-kernel-8e04761f1d8e)
+- [Blockchain-flavored WASI](https://github.com/oasislabs/rfcs/blob/blockchain-wasi/blockchain_wasi.md)
 
 
 ## Podcasts
