@@ -59,6 +59,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 
 ## Articles
 
+- [Porting Redis to WebAssembly with clang and WASI](https://medium.com/fluence-network/porting-redis-to-webassembly-with-clang-wasi-af99b264ca8)
 - [Compiling C to WebAssembly using clang/LLVM and WASI](https://00f.net/2019/04/07/compiling-to-webassembly-with-llvm-and-clang/)
 - [Running WebAssembly and WASI with .NET](https://ericsink.com/entries/wasm_wasi_dotnet.html)
 - [WASM to WASI](https://rendered-obsolete.github.io/2019/04/29/wasi.html)
