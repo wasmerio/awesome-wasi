@@ -53,6 +53,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 
 ### C
 - [WASI C Tutorial](https://github.com/CraneStation/wasmtime/blob/master/docs/WASI-tutorial.md)
+- [Wasm Clang](https://github.com/binji/wasm-clang)
 
 ### Zig
 - [Hello World](https://github.com/bketelsen/hello-wapi)
@@ -73,6 +74,10 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 
 - [Ashley Williams on Web Assembly, Wasi, & the Application Edge](https://poddtoppen.se/podcast/1106971805/the-infoq-podcast/ashley-williams-on-web-assembly-wasi-the-application-edge)
 - [Wasmer is taking WebAssembly beyond the browser](https://changelog.com/podcast/341)
+
+## Videos
+
+- [CppCon 2019  "Applied WebAssembly: Compiling and Running C++ in Your Web Browser" by Ben Smith](https://www.youtube.com/watch?v=5N4b-rU-OAA)
 
 ## Resources in other languages
 
