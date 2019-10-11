@@ -37,6 +37,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 
 ## Utilities
 - [WASA - WASI layer interface for AssemblyScript](https://github.com/jedisct1/wasa)
+- [WebAssembly.sh - An online WebAssembly WASI shell](https://webassembly.sh)
 
 ## WASI Programs
 
@@ -68,6 +69,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 - [The Promise of WebAssembly](https://dev.to/ryan_levick/the-promise-of-webassembly-2obi)
 - [Running WebAssembly in the Kernel](https://medium.com/wasmer/running-webassembly-on-the-kernel-8e04761f1d8e)
 - [Blockchain-flavored WASI](https://github.com/oasislabs/rfcs/blob/blockchain-wasi/blockchain_wasi.md)
+- [Announcing WebAssembly.sh](https://medium.com/wasmer/webassembly-sh-408b010c14db)
 
 
 ## Podcasts
