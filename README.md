@@ -38,6 +38,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 ## Utilities
 - [WASA - WASI layer interface for AssemblyScript](https://github.com/jedisct1/wasa)
 - [WebAssembly.sh - An online WebAssembly WASI shell](https://webassembly.sh)
+- [Wasienv: WASI Development Workflow for Humans](https://github.com/wasienv/wasienv)
 
 ## WASI Programs
 
@@ -53,6 +54,11 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 - [Rust WASI Tutorial](https://github.com/kubkon/rust-wasi-tutorial)
 
 ### C
+- [OpenSSL](https://github.com/wapm-packages/openssl)
+- [jq](https://github.com/wapm-packages/jq)
+- [sqlite](https://github.com/wapm-packages/sqlite)
+- [quickjs](https://github.com/saghul/wasi-lab/tree/master/qjs-wasi)
+- [duktape](https://github.com/saghul/wasi-lab/tree/master/wasiduk)
 - [WASI C Tutorial](https://github.com/CraneStation/wasmtime/blob/master/docs/WASI-tutorial.md)
 - [Wasm Clang](https://github.com/binji/wasm-clang)
 
@@ -70,6 +76,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 - [Running WebAssembly in the Kernel](https://medium.com/wasmer/running-webassembly-on-the-kernel-8e04761f1d8e)
 - [Blockchain-flavored WASI](https://github.com/oasislabs/rfcs/blob/blockchain-wasi/blockchain_wasi.md)
 - [Announcing WebAssembly.sh](https://medium.com/wasmer/webassembly-sh-408b010c14db)
+- [Wasienv: WASI Development Workflow for Humans](https://medium.com/wasmer/wasienv-wasi-development-workflow-for-humans-1811d9a50345)
 
 
 ## Podcasts
