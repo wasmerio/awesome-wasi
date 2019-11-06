@@ -34,6 +34,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 - [Wasmer](https://github.com/wasmerio/wasmer)
 - [Wasmtime](https://github.com/cranestation/wasmtime)
 - [wasm2cil](https://github.com/ericsink/wasm2cil)
+- [WAVM](https://github.com/WAVM/WAVM)
 
 ## Utilities
 - [WASA - WASI layer interface for AssemblyScript](https://github.com/jedisct1/wasa)
