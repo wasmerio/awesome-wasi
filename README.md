@@ -79,6 +79,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 - [Blockchain-flavored WASI](https://github.com/oasislabs/rfcs/blob/blockchain-wasi/blockchain_wasi.md)
 - [Announcing WebAssembly.sh](https://medium.com/wasmer/webassembly-sh-408b010c14db)
 - [Wasienv: WASI Development Workflow for Humans](https://medium.com/wasmer/wasienv-wasi-development-workflow-for-humans-1811d9a50345)
+- [Wasm as a Platform for Abstraction](http://adventures.michaelfbryan.com/posts/wasm-as-a-platform-for-abstraction/)
 
 
 ## Podcasts
