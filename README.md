@@ -24,7 +24,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 - [WASI GitHub Repo](https://github.com/webassembly/WASI)
 - [Mozilla Announcement](https://hacks.mozilla.org/2019/03/standardizing-wasi-a-webassembly-system-interface/)
 - [WASI SDK](https://github.com/CraneStation/wasi-sdk)
-- [WASI Preview API (Previously known as WASI-Core)](https://github.com/WebAssembly/WASI/blob/master/phases/snapshot/docs/wasi_unstable_preview1.md)
+- [WASI Preview API (Previously known as WASI-Core)](https://github.com/WebAssembly/WASI/blob/master/phases/snapshot/docs.md)
 - [WASI CG Meetings](https://github.com/WebAssembly/WASI/tree/master/meetings)
 
 
