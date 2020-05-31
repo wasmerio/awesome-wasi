@@ -66,6 +66,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 
 ### Zig
 - [Hello World](https://github.com/bketelsen/hello-wapi)
+- [zig-wasi-tutorial](https://github.com/kubkon/zig-wasi-tutorial)
 
 ## Articles
 
