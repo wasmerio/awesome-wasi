@@ -16,6 +16,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
   - [Zig](#zig)
 - [Articles](#articles)
 - [Podcasts](#podcasts)
+- [Videos](#videos)
 - [Resources in other languages](#resources-in-other-languages)
   - [Japanese](#japanese)
 
