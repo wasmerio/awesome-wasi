@@ -41,6 +41,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 ## Utilities
 - [WASA - WASI layer interface for AssemblyScript](https://github.com/jedisct1/wasa)
 - [WebAssembly.sh - An online WebAssembly WASI shell](https://webassembly.sh)
+- [WASI + File System Access API: browser shell demo with a real filesystem access](https://github.com/GoogleChromeLabs/wasi-fs-access)
 - [Wasienv: WASI Development Workflow for Humans](https://github.com/wasienv/wasienv)
 
 ## WASI Programs
