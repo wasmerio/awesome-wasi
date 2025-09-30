@@ -13,6 +13,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
   - [AssemblyScript](#assemblyscript)
   - [Rust](#rust)
   - [C](#c)
+  - [WebAssembly Text](#webassembly-text)
   - [Zig](#zig)
 - [Articles](#articles)
 - [Podcasts](#podcasts)
@@ -65,6 +66,9 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 - [duktape](https://github.com/saghul/wasi-lab/tree/master/wasiduk)
 - [WASI C Tutorial](https://github.com/CraneStation/wasmtime/blob/master/docs/WASI-tutorial.md)
 - [Wasm Clang](https://github.com/binji/wasm-clang)
+
+### WebAssembly Text
+- [SHA256](https://github.com/ChrisWhealy/wasm_sha256/blob/main/docs/README.md)
 
 ### Zig
 - [Hello World](https://github.com/bketelsen/hello-wapi)
