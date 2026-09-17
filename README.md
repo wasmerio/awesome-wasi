@@ -44,6 +44,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 - [WebAssembly.sh - An online WebAssembly WASI shell](https://webassembly.sh)
 - [WASI + File System Access API: browser shell demo with a real filesystem access](https://github.com/GoogleChromeLabs/wasi-fs-access)
 - [Wasienv: WASI Development Workflow for Humans](https://github.com/wasienv/wasienv)
+- [ephemora-cell - Capability-based WASI sandbox for untrusted AI code](https://github.com/MichaelS1011/ephemora-cell) — Fuel/memory/time/I/O limits, 0.5ms warm, 8/8 Docker vectors blocked (wasmtime, MCP server). Python
 
 ## WASI Programs
 
