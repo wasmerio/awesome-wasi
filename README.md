@@ -44,6 +44,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 - [WebAssembly.sh - An online WebAssembly WASI shell](https://webassembly.sh)
 - [WASI + File System Access API: browser shell demo with a real filesystem access](https://github.com/GoogleChromeLabs/wasi-fs-access)
 - [Wasienv: WASI Development Workflow for Humans](https://github.com/wasienv/wasienv)
+- [appfuzz - Fuzzes WASI components and modules against simulated host functions and reports crashes, n+1 calls, injection and data leaks](https://github.com/StephanSchmidt/appfuzz)
 
 ## WASI Programs
 
